@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHiProgram", "TheHiProgram\TheHiProgram.csproj", "{E9E7E2ED-E393-47DC-B94F-E7146C7DC374}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeAfter10Years", "AgeAfter10Years\AgeAfter10Years.csproj", "{066463A8-1928-4673-8817-9E4709BAB257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9E7E2ED-E393-47DC-B94F-E7146C7DC374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E7E2ED-E393-47DC-B94F-E7146C7DC374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E7E2ED-E393-47DC-B94F-E7146C7DC374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E7E2ED-E393-47DC-B94F-E7146C7DC374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{066463A8-1928-4673-8817-9E4709BAB257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066463A8-1928-4673-8817-9E4709BAB257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066463A8-1928-4673-8817-9E4709BAB257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066463A8-1928-4673-8817-9E4709BAB257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36591D94-E5F8-42E2-9379-A4F4D3425FCA}
+	EndGlobalSection
+EndGlobal
