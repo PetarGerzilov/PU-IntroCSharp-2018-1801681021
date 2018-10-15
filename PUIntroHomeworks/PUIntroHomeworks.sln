@@ -11,6 +11,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{FE6280ED
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travel2TheSunWithSoundSpreedInWater", "Travel2TheSunWithSoundSpreedInWater\Travel2TheSunWithSoundSpreedInWater.csproj", "{0F53CB1A-9AB7-4F24-ACD1-6D5245FEBD48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFourDigitInNumber", "FindFourDigitInNumber\FindFourDigitInNumber.csproj", "{E3558E25-2197-4DA4-8630-A078ADAB4519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightOnDifferentPlanet", "CalculateWeightOnDifferentPlanet\CalculateWeightOnDifferentPlanet.csproj", "{0CB62C7B-6E73-4C4D-B822-229073BE05F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,12 +35,27 @@ Global
 		{0F53CB1A-9AB7-4F24-ACD1-6D5245FEBD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F53CB1A-9AB7-4F24-ACD1-6D5245FEBD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F53CB1A-9AB7-4F24-ACD1-6D5245FEBD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3558E25-2197-4DA4-8630-A078ADAB4519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3558E25-2197-4DA4-8630-A078ADAB4519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3558E25-2197-4DA4-8630-A078ADAB4519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3558E25-2197-4DA4-8630-A078ADAB4519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CB62C7B-6E73-4C4D-B822-229073BE05F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB62C7B-6E73-4C4D-B822-229073BE05F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB62C7B-6E73-4C4D-B822-229073BE05F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB62C7B-6E73-4C4D-B822-229073BE05F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0F53CB1A-9AB7-4F24-ACD1-6D5245FEBD48} = {FE6280ED-9515-4830-B63E-3916B2C7E777}
+		{E3558E25-2197-4DA4-8630-A078ADAB4519} = {FE6280ED-9515-4830-B63E-3916B2C7E777}
+		{0CB62C7B-6E73-4C4D-B822-229073BE05F7} = {FE6280ED-9515-4830-B63E-3916B2C7E777}
+		{8F76B0B5-DEDB-4CBF-9032-D88FEEDA21A2} = {FE6280ED-9515-4830-B63E-3916B2C7E777}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36591D94-E5F8-42E2-9379-A4F4D3425FCA}
